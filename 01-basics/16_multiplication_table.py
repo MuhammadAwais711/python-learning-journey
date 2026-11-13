@@ -1,0 +1,50 @@
+# 6. Print a multiplication table layout (fixed values). Display a 1-to-5 table as pre-written output; loops are not allowed.
+
+
+print("=" * 45)
+print("\t\tMULTIPLICATION TABLES")
+print("=" * 45)
+
+print("\n\tTABLE OF 1")
+print("-" * 30)
+print("1 x 1 = 1")
+print("1 x 2 = 2")
+print("1 x 3 = 3")
+print("1 x 4 = 4")
+print("1 x 5 = 5")
+
+print("\n\tTABLE OF 2")
+print("-" * 30)
+print("2 x 1 = 2")
+print("2 x 2 = 4")
+print("2 x 3 = 6")
+print("2 x 4 = 8")
+print("2 x 5 = 10")
+
+print("\n\tTABLE OF 3")
+print("-" * 30)
+print("3 x 1 = 3")
+print("3 x 2 = 6")
+print("3 x 3 = 9")
+print("3 x 4 = 12")
+print("3 x 5 = 15")
+
+print("\n\tTABLE OF 4")
+print("-" * 30)
+print("4 x 1 = 4")
+print("4 x 2 = 8")
+print("4 x 3 = 12")
+print("4 x 4 = 16")
+print("4 x 5 = 20")
+
+print("\n\tTABLE OF 5")
+print("-" * 30)
+print("5 x 1 = 5")
+print("5 x 2 = 10")
+print("5 x 3 = 15")
+print("5 x 4 = 20")
+print("5 x 5 = 25")
+
+print("=" * 45)
+print("\t\tEND OF TABLES")
+print("=" * 45)
